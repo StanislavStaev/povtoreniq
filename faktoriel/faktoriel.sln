@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "faktoriel", "faktoriel.csproj", "{1A77FC24-4ADE-409E-9969-7816F7DF00A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sybirane na 4isla", "..\sybirane na 4isla\sybirane na 4isla.csproj", "{D97D8CA7-2FDB-4691-BE38-12099BC9A8E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A77FC24-4ADE-409E-9969-7816F7DF00A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A77FC24-4ADE-409E-9969-7816F7DF00A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A77FC24-4ADE-409E-9969-7816F7DF00A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A77FC24-4ADE-409E-9969-7816F7DF00A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D97D8CA7-2FDB-4691-BE38-12099BC9A8E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97D8CA7-2FDB-4691-BE38-12099BC9A8E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97D8CA7-2FDB-4691-BE38-12099BC9A8E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97D8CA7-2FDB-4691-BE38-12099BC9A8E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

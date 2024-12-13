@@ -1,0 +1,7 @@
+C:\Users\1409-10\Desktop\Станислав 9а\faktoriel\bin\Debug\faktoriel.exe.config
+C:\Users\1409-10\Desktop\Станислав 9а\faktoriel\bin\Debug\faktoriel.exe
+C:\Users\1409-10\Desktop\Станислав 9а\faktoriel\bin\Debug\faktoriel.pdb
+C:\Users\1409-10\Desktop\Станислав 9а\faktoriel\obj\Debug\faktoriel.csproj.AssemblyReference.cache
+C:\Users\1409-10\Desktop\Станислав 9а\faktoriel\obj\Debug\faktoriel.csproj.CoreCompileInputs.cache
+C:\Users\1409-10\Desktop\Станислав 9а\faktoriel\obj\Debug\faktoriel.exe
+C:\Users\1409-10\Desktop\Станислав 9а\faktoriel\obj\Debug\faktoriel.pdb
