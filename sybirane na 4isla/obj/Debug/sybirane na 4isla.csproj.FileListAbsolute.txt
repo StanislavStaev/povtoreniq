@@ -1,7 +1,0 @@
-C:\Users\1409-10\Desktop\Станислав 9а\sybirane na 4isla\bin\Debug\sybirane na 4isla.exe.config
-C:\Users\1409-10\Desktop\Станислав 9а\sybirane na 4isla\bin\Debug\sybirane na 4isla.exe
-C:\Users\1409-10\Desktop\Станислав 9а\sybirane na 4isla\bin\Debug\sybirane na 4isla.pdb
-C:\Users\1409-10\Desktop\Станислав 9а\sybirane na 4isla\obj\Debug\sybirane na 4isla.csproj.AssemblyReference.cache
-C:\Users\1409-10\Desktop\Станислав 9а\sybirane na 4isla\obj\Debug\sybirane na 4isla.csproj.CoreCompileInputs.cache
-C:\Users\1409-10\Desktop\Станислав 9а\sybirane na 4isla\obj\Debug\sybirane na 4isla.exe
-C:\Users\1409-10\Desktop\Станислав 9а\sybirane na 4isla\obj\Debug\sybirane na 4isla.pdb
